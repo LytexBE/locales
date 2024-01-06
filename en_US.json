@@ -1,0 +1,9 @@
+{
+	"PREFIX": "§fRush§BUnity §8»§r",
+	"localeCode": "en_US",
+	"name": "English",
+	
+	"values": {
+		"ui.title.selectLanguage": "Select a Language"
+	}
+}
