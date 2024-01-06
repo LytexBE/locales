@@ -1,9 +1,12 @@
 {
-	"PREFIX": "§fRush§BUnity §8»§r",
+	"PREFIX": "§fRush§bUnity §8»§r",
 	"localeCode": "de_DE",
-	"name": "Deutsch",
+	"name": "German",
 	
 	"values": {
-		"ui.title.selectLanguage": "Wähle eine Sprache"
+		"ui.title.selectLanguage": "Wähle eine Sprache",
+		"ui.text.selectLanguage": "Hier kannst du eine Sprache auswählen",
+		
+		"ui.button.close": "§cSchließen"
 	}
 }
