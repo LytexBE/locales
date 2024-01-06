@@ -7,6 +7,8 @@
 		"ui.title.selectLanguage": "Wähle eine Sprache",
 		"ui.text.selectLanguage": "Hier kannst du eine Sprache auswählen",
 		
-		"ui.button.close": "§cSchließen"
+		"ui.button.close": "§cSchließen",
+		
+		"languageApi.wasUpdated": "{PREFIX} §7Deine sprache wurde auf §e#0# §7geändert."
 	}
 }
