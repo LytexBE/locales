@@ -9,6 +9,6 @@
 		
 		"ui.button.close": "§cClose",
 		
-		"languageApi.wasUpdated": "{PREFIX} §7Your language was changed to §e#1#§7."
+		"languageApi.wasUpdated": "{PREFIX} §7Your language was changed to §e#0#§7."
 	}
 }
