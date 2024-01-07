@@ -10,12 +10,18 @@
 		"ui.text.selectLanguage": "Hier kannst du eine Sprache auswählen",
 		
 		"ui.button.close": "§cSchließen",
+		"ui.button.back": "§cZurück",
 		"ui.button.selectPlus": "§ePlus auswählen",
 		"ui.button.selectMinus": "§eMinus auswählen",
 		"ui.button.clans.search": "§3Clans suchen",
 		"ui.button.clans.info": "§3Clan info",
 		"ui.button.clans.invite": "§3Spieler einladen",
 		"ui.button.clans.manage": "§3Clan bearbeiten",
+		"ui.button.clans.manage.image": "§3Clan Bild",
+		"ui.button.clans.manage.tag_color": "§3Tag Color",
+		"ui.button.clans.manage.clam_color": "§3Clam Color",
+		"ui.button.clans.manage.members": "§3Member bearbeiten",
+		"ui.button.clans.manage.delete": "Clan löschen",
 		
 		"languageApi.wasUpdated": "{PREFIX} §7Deine sprache wurde auf §e#0# §7geändert.",
 		"message.alreadyVerified": "{PREFIX} §cDu bist bereits verifiziert.",
