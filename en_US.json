@@ -4,6 +4,15 @@
 	"name": "English",
 	
 	"values": {
+		"raw.second": "second",
+		"raw.seconds": "seconds",
+		"raw.minute": "minute",
+		"raw.minutes": "minutes",
+		"raw.hour": "hour",
+		"raw.hours": "hours",
+		"raw.day": "day",
+		"raw.days": "days",
+		
 		"ui.title.selectLanguage": "Select a Language",
 		"ui.title.clans": "§5Clans",
 		

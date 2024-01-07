@@ -4,6 +4,15 @@
 	"name": "German",
 	
 	"values": {
+		"raw.second": "Sekunde",
+		"raw.seconds": "Sekunden",
+		"raw.minute": "Minute",
+		"raw.minutes": "Minuten",
+		"raw.hour": "Stunde",
+		"raw.hours": "Stunden",
+		"raw.day": "Tag",
+		"raw.days": "Tage",
+		
 		"ui.title.selectLanguage": "Wähle eine Sprache",
 		"ui.title.clans": "§5Clans",
 		
