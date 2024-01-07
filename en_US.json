@@ -38,6 +38,7 @@
 		"message.notEnoughCoins": "{PREFIX} §cYou don't have enough coins.",
 		"message.onlyNickInLobby": "{PREFIX} §cYou can only nick yourself in the lobby.",
 		"message.nickEnabled": "{PREFIX} §aYou are now nicked.",
-		"message.nickDisabled": "{PREFIX} §cYour nickname was removed."
+		"message.nickDisabled": "{PREFIX} §cYour nickname was removed.",
+		"message.verifyCodeExpiresIn": "{PREFIX} §7Your verify code §8(§e#0#§8) §7expires in §e#1#§7."
 	}
 }
