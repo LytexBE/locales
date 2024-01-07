@@ -8,7 +8,15 @@
 		"ui.text.selectLanguage": "Here you can select a language",
 		
 		"ui.button.close": "§cClose",
+		"ui.button.selectPlus": "§eSelect Plus",
+		"ui.button.selectMinus": "§eSelect Minus",
 		
-		"languageApi.wasUpdated": "{PREFIX} §7Your language was changed to §e#0#§7."
+		"languageApi.wasUpdated": "{PREFIX} §7Your language was changed to §e#0#§7.",
+		"message.alreadyVerified": "{PREFIX} §cYou are already verified.",
+		"message.playerNotFound": "{PREFIX} §cThis player isn't online.",
+		"message.notEnoughCoins": "{PREFIX} §cYou don't have enough coins.",
+		"message.onlyNickInLobby": "{PREFIX} §cYou can only nick yourself in the lobby.",
+		"message.nickEnabled": "{PREFIX} §aYou are now nicked.",
+		"message.nickDisabled": "{PREFIX} §cYour nickname was removed."
 	}
 }

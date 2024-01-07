@@ -8,7 +8,15 @@
 		"ui.text.selectLanguage": "Hier kannst du eine Sprache auswählen",
 		
 		"ui.button.close": "§cSchließen",
+		"ui.button.selectPlus": "§ePlus auswählen",
+		"ui.button.selectMinus": "§eMinus auswählen",
 		
-		"languageApi.wasUpdated": "{PREFIX} §7Deine sprache wurde auf §e#0# §7geändert."
+		"languageApi.wasUpdated": "{PREFIX} §7Deine sprache wurde auf §e#0# §7geändert.",
+		"message.alreadyVerified": "{PREFIX} §cDu bist bereits verifiziert.",
+		"message.playerNotFound": "{PREFIX} §cDieser Spieler ist nicht online.",
+		"message.notEnoughCoins": "{PREFIX} §cDu hast nicht genug Coins.",
+		"message.onlyNickInLobby": "{PREFIX} §cDu kannst dich nur in der Lobby nicken.",
+		"message.nickEnabled": "{PREFIX} §aDu bist nun genickt.",
+		"message.nickDisabled": "{PREFIX} §cDein nickname wurde entfernt."
 	}
 }
