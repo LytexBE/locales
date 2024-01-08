@@ -44,6 +44,7 @@
 		"message.boughtBoots": "{PREFIX} §7You bought the §e#0# §7boots.",
 		"message.boughtParticle": "{PREFIX} §7You bought the §e#0# §7particles.",
 		"message.cancelledPurchase": "{PREFIX} §cYou have cancelled the purchase.",
-		"message.yourOnlineTime": "{PREFIX} §7Your online time is §e#0#§7."
+		"message.yourOnlineTime": "{PREFIX} §7Your online time is §e#0#§7.",
+		"message.yourCoins": "{PREFIX} §7You currently have §e#0# §7#1#."
 	}
 }
