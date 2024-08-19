@@ -1,7 +1,7 @@
 {
         "PREFIX": "§b§lLYTEX§r §8»§r",
-        "localeCode": "de_DE",
-        "name": "German",
+        "localeCode": "ru_RU",
+        "name": "Russian",
 
         "values": {
                 "raw.second": "Sekunde",
