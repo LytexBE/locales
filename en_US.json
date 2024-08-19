@@ -33,6 +33,7 @@
 		"ui.button.clans.manage.delete": "Delete Clan",
 		
 		"languageApi.wasUpdated": "{PREFIX} §7Your language was changed to §e#0#§7.",
+		"languageApi.errorUpdateLanguage": "{PREFIX} §cAn error has occurred while updating your language.",
 		"message.alreadyVerified": "{PREFIX} §cYou are already verified.",
 		"message.playerNotFound": "{PREFIX} §cThis player isn't online.",
 		"message.notEnoughCoins": "{PREFIX} §cYou don't have enough coins.",
