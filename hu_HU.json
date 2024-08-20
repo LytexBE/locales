@@ -28,8 +28,8 @@
                 "ui.button.clans.manage": "§3klánba belépni",
                 "ui.button.clans.manage.image": "§3klán kép",
                 "ui.button.clans.manage.tag_color": "§3cimke színe",
-                "ui.button.clans.manage.clam_color": "§3klán színe",
-                "ui.button.clans.manage.members": "§3tagot kezelni",
+                "ui.button.clans.manage.clam_color": "§3CLAM színe",
+                "ui.button.clans.manage.members": "§3tagokat kezelni",
                 "ui.button.clans.manage.delete": "klán törlése",
 
                 "languageApi.wasUpdated": "{PREFIX} §e#0# §7nylevet választottad.",
@@ -42,9 +42,9 @@
                 "message.nickDisabled": "{PREFIX} §cMost már nincsen becenevet.",
                 "message.verifyCodeExpiresIn": "{PREFIX} §7Az ellenőrző kódod §8(§e#0#§8) §e#1#§7 után lejár.",
                 "message.notEnoughCoins": "{PREFIX} §cNincs elég érméd.",
-                "message.boughtBoots": "{PREFIX} §7Megvetted §e#0# §7csizmát.",
+                "message.boughtBoots": "{PREFIX} §7Megvetted §e#0# §7-csizmákat.",
                 "message.boughtParticle": "{PREFIX} §7Megvetted §e#0# §7particle:t.",
-                "message.cancelledPurchase": "{PREFIX} §cLemondtad a vásárlást.",
+                "message.cancelledPurchase": "{PREFIX} §cLemondtad a vásárlásodat.",
                 "message.yourOnlineTime": "{PREFIX} §7Online időd: §e#0#§7.",
                 "message.yourCoins": "{PREFIX} §7Neked §e#0# §7#1# §7van."
         }
