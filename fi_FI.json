@@ -1,7 +1,7 @@
 {
         "PREFIX": "§b§lLYTEX§r §8»§r",
         "localeCode": "fi_FI",
-        "name": "Finnish",
+        "name": "suomi",
 
         "values": {
                 "raw.second": "sekunti",
@@ -28,8 +28,8 @@
                 "ui.button.clans.manage": "§3muokkaa klaani",
                 "ui.button.clans.manage.image": "§3klaanin kuva",
                 "ui.button.clans.manage.tag_color": "§3Tag:in väri",
-                "ui.button.clans.manage.clam_color": "§3klaanin väri",
-                "ui.button.clans.manage.members": "§3muokkaa jäsentä",
+                "ui.button.clans.manage.clam_color": "§3CLAM:in väri",
+                "ui.button.clans.manage.members": "§3muokkaa jäseniä",
                 "ui.button.clans.manage.delete": "poista klaani",
 
                 "languageApi.wasUpdated": "{PREFIX} §7kielesi on vaihdettu §e#0# §7:ksi.",
@@ -37,15 +37,15 @@
                 "message.alreadyVerified": "{PREFIX} §cOlet jo vahvistettu.",
                 "message.playerNotFound": "{PREFIX} §cTämä pelaaja nyt ei ole online.",
                 "message.notEnoughCoins": "{PREFIX} §cSinulla ei ole tarpeeksi kolikoita.",
-                "message.onlyNickInLobby": "{PREFIX} §cDu kannst dich nur in der Lobby nicken.",
+                "message.onlyNickInLobby": "{PREFIX} §c/nick voidaan käyttää vain Lobby:ssa.",
                 "message.nickEnabled": "{PREFIX} §aNyt sinulla on lempinimi.",
                 "message.nickDisabled": "{PREFIX} §cNyt sinulla ei ole enää lempinimeä.",
-                "message.verifyCodeExpiresIn": "{PREFIX} §7Dein verify code §8(§e#0#§8) §7verfällt in §e#1#§7.",
+                "message.verifyCodeExpiresIn": "{PREFIX} §7Vahvistuskoodisi §8(§e#0#§8) §7vanhenee §e#1#§7 §7jälkeen.",
                 "message.notEnoughCoins": "{PREFIX} §cSinulla ei ole tarpeeksi kolikoita.",
-                "message.boughtBoots": "{PREFIX} §7Du hast die §e#0# §7Stiefel gekauft.",
-                "message.boughtParticle": "{PREFIX} §7Du hast die §e#0# §7Partikel gekauft.",
-                "message.cancelledPurchase": "{PREFIX} §cDu hast den kauf abgebrochen.",
-                "message.yourOnlineTime": "{PREFIX} §7Deine Onlinezeit beträgt §e#0#§7.",
-                "message.yourCoins": "{PREFIX} §7Du hast momentan §e#0# §7#1#."
+                "message.boughtBoots": "{PREFIX} §7Ostit §e#0# §7-saappaat.",
+                "message.boughtParticle": "{PREFIX} §7Ostit §e#0# §7-hiukkasia.",
+                "message.cancelledPurchase": "{PREFIX} §cOlet peruuttanut ostoksesi.",
+                "message.yourOnlineTime": "{PREFIX} §7Online-aikasi on §e#0#§7.",
+                "message.yourCoins": "{PREFIX} §7Sinulla on nyt §e#0# §7#1#."
         }
 }
