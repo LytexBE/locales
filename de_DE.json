@@ -33,7 +33,7 @@
 		"ui.button.clans.manage.delete": "Clan löschen",
 		
 		"languageApi.wasUpdated": "{PREFIX} §7Deine Sprache wurde auf §e#0# §7geändert.",
-		"languageApi.errorUpdateLanguage": "{PREFIX} §cEin Fehler ist beim updaten deiner Sprache aufgetreten..",
+		"languageApi.errorUpdateLanguage": "{PREFIX} §cEin Fehler ist beim aktualisieren deiner Sprache aufgetreten..",
 		"message.alreadyVerified": "{PREFIX} §cDu bist bereits verifiziert.",
 		"message.playerNotFound": "{PREFIX} §cDieser Spieler ist nicht online.",
 		"message.notEnoughCoins": "{PREFIX} §cDu hast nicht genug Coins.",
@@ -42,9 +42,9 @@
 		"message.nickDisabled": "{PREFIX} §cDein nickname wurde entfernt.",
 		"message.verifyCodeExpiresIn": "{PREFIX} §7Dein Verifizierungscode §8(§e#0#§8) §7verfällt in §e#1#§7.",
 		"message.notEnoughCoins": "{PREFIX} §cDu hast nicht genügend Coins.",
-		"message.boughtBoots": "{PREFIX} §7Du hast die §e#0# §7Stiefel gekauft.",
-		"message.boughtParticle": "{PREFIX} §7Du hast die §e#0# §7Partikel gekauft.",
-		"message.cancelledPurchase": "{PREFIX} §cDu hast den kauf abgebrochen.",
+		"message.boughtBoots": "{PREFIX} §7Du hast die Stiefel §e#0# §7gekauft.",
+		"message.boughtParticle": "{PREFIX} §7Du hast die Partikel §e#0# §7gekauft.",
+		"message.cancelledPurchase": "{PREFIX} §cDu hast den Kauf abgebrochen.",
 		"message.yourOnlineTime": "{PREFIX} §7Deine Onlinezeit beträgt §e#0#§7.",
 		"message.yourCoins": "{PREFIX} §7Du hast momentan §e#0# §7#1#."
 	}
