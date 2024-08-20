@@ -18,8 +18,8 @@
 		
 		"ui.text.selectLanguage": "Here you can select a language",
 		
-		"ui.button.close": "§cClose",
-		"ui.button.back": "§cBack",
+		"ui.button.close": "§cclose",
+		"ui.button.back": "§cback",
 		"ui.button.selectPlus": "§eSelect Plus",
 		"ui.button.selectMinus": "§eSelect Minus",
 		"ui.button.clans.search": "§3Search clans",
@@ -37,14 +37,14 @@
 		"message.alreadyVerified": "{PREFIX} §cYou are already verified.",
 		"message.playerNotFound": "{PREFIX} §cThis player isn't online.",
 		"message.notEnoughCoins": "{PREFIX} §cYou don't have enough coins.",
-		"message.onlyNickInLobby": "{PREFIX} §cYou can only nick yourself in the lobby.",
-		"message.nickEnabled": "{PREFIX} §aYou are now nicked.",
+		"message.onlyNickInLobby": "{PREFIX} §c/nick command can only be used in the lobby.",
+		"message.nickEnabled": "{PREFIX} §aYou are nicked now.",
 		"message.nickDisabled": "{PREFIX} §cYour nickname was removed.",
-		"message.verifyCodeExpiresIn": "{PREFIX} §7Your verify code §8(§e#0#§8) §7expires in §e#1#§7.",
+		"message.verifyCodeExpiresIn": "{PREFIX} §7Your verification code §8(§e#0#§8) §7expires in §e#1#§7.",
 		"message.notEnoughCoins": "{PREFIX} §cYou don't have enough coins.",
 		"message.boughtBoots": "{PREFIX} §7You bought the §e#0# §7boots.",
 		"message.boughtParticle": "{PREFIX} §7You bought the §e#0# §7particles.",
-		"message.cancelledPurchase": "{PREFIX} §cYou have cancelled the purchase.",
+		"message.cancelledPurchase": "{PREFIX} §cYou have cancelled your purchase.",
 		"message.yourOnlineTime": "{PREFIX} §7Your online time is §e#0#§7.",
 		"message.yourCoins": "{PREFIX} §7You currently have §e#0# §7#1#."
 	}
